@@ -18,7 +18,7 @@ This is a ChatApp created using PHP and SQL.
 ---
 #### This is a collaborative project of 
 1. [Vividh Pandey](https://github.com/VividhPandey003)
-2. [Konda Srinivasa Nikhil] [https://github.com/nikhilks123]
+2. [Konda Srinivasa Nikhil](https://github.com/nikhilks123)
 3. [Debroop Ghosh](https://github.com/debroopghosh11)
 4. [Kartik Arora](https://github.com/firepopsicle)
 
